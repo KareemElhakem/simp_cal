@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1662038422 source:c:\users\admin\desktop\git\simple_cal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Functions.h"
+
+1662038422 c:\users\admin\desktop\git\simple_cal\functions.h
+	<stddef.h>
+
